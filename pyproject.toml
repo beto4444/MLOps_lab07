@@ -10,6 +10,7 @@ dependencies = [
     "numpy",
     "onnx",
     "onnxruntime",
+    "onnxscript>=0.5.6",
     "torch",
     "transformers",
 ]
